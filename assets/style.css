@@ -1,0 +1,27 @@
+.films-filter-form{
+    padding: 40px 0;
+    background-color: rgb(238, 199, 148);
+    text-align: center;
+    text-transform: uppercase;
+}
+.films-template input[type='text'], select{
+    padding: 9px;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+.wj-films-filter{
+    flex: 0 0 calc(30% - 2rem);
+    margin-bottom: 60px;;
+}
+.wj-films{
+    display: flex;
+    justify-content: space-evenly;
+}
+.wj-films article{
+    padding: 10px;
+    background-color: rgb(238, 199, 148);
+    border-radius: 10px;
+}
+  
+  
+  
